@@ -1,4 +1,4 @@
-# Apache Kafka + Kafka Connect + MQTT Connector + Sensor Data
+# ScyllaDB + Apache Kafka + Kafka Connect + MQTT Connector + Sensor Data
 
 This demo shows an Internet of Things (IoT) integration example using Apache Kafka + Kafka Connect + MQTT Connector + Sensor Data.
 
